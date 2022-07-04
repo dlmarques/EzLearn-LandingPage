@@ -11,7 +11,7 @@ const store  = configureStore({
         loginUI: loginModalSlice.reducer,
         registerUI: registerModalSlice.reducer,
         resetUI: resetPasswordModalSlice.reducer,
-        mobileMenuUI: mobileMenuSlice.reducer,
+        mobileMenuUI: mobileMenuSlice.reducer
     }
 })
 
