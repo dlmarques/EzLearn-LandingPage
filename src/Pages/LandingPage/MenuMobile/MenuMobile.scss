@@ -5,7 +5,7 @@
 }
 
 .mobile-container {
-  width: 50vw;
+  width: 100vw;
   height: 100vh;
   background-color: #000b53;
   z-index: 99;
@@ -39,8 +39,8 @@
       overflow: hidden;
       background: linear-gradient(
         to right,
-        #073375,
-        #073375 50%,
+        #00adb5,
+        #00adb5 50%,
         #fff 50%
       );
       background-clip: text;
